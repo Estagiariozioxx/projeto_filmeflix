@@ -5,10 +5,14 @@
 <p align="center">
   <b>Escolha, Salve e Exclua filmes facilmente!</b>
 </p>
-
 <p align="center">
-  <img src="_screenshot.png" alt="Screenshot do App" width="600">
+  <img src="2.png" alt="Screenshot do App" width="600">
 </p>
+<p align="center">
+  <img src="1.png" alt="Screenshot do App" width="600">
+</p>
+
+
 
 ## 🚀 Funcionalidades
 
@@ -30,7 +34,16 @@ Certifique-se de ter o Node.js e o npm instalados no seu sistema.
 
 
 
+👨‍💻 Autor
+Leonardo Lopes - https://github.com/Estagiariozioxx/
 
+📄 Licença
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para mais detalhes.
+
+📦 Dados dos Filmes
+Os dados dos filmes são obtidos da API do The Movie Database (TMDb). Certifique-se de obter sua chave de API para usar o serviço.
+
+Nota: Os filmes exibidos são provenientes da API do TMDb. Todos os direitos reservados aos criadores e proprietários dos filmes.
 
 # Getting Started with Create React App
 
