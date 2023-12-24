@@ -1,3 +1,37 @@
+<h1 align="center">
+  🍿 Filme Flix 🎬
+</h1>
+
+<p align="center">
+  <b>Escolha, Salve e Exclua filmes facilmente!</b>
+</p>
+
+<p align="center">
+  <img src="_screenshot.png" alt="Screenshot do App" width="600">
+</p>
+
+## 🚀 Funcionalidades
+
+- **Escolher um Filme:** 🎥 Navegue pela lista de filmes disponíveis e escolha os que você deseja adicionar à sua lista.
+
+- **Salvar em uma Lista:** 💾 Adicione filmes à sua lista personalizada para acompanhamento posterior.
+
+- **Excluir Filmes:** 🗑️ Remova filmes da sua lista se não estiverem mais interessantes.
+
+## 🛠️ Como Executar
+
+Certifique-se de ter o Node.js e o npm instalados no seu sistema.
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Estagiariozioxx/projeto_filmeflix.git
+   cd projeto_filmeflix
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
